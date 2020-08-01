@@ -1,14 +1,12 @@
 
+In this project I had to plan a trip to Honolulu, Hawaii! Before planning the trip, a climate analysis of the area was required.
 
 
 ![surfs-up.png](Images/surfs-up.png)
 
-Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii! To help with your trip planning, you need to do some climate analysis on the area. The following outlines what you need to do.
 
 
-
- 
-
+Python and SQLAlchemy will be used to conduct a basic climate analysis and exploration of the climate the flowing analysis will be completed using SQLALchemy ORM queries, Pandas, and Matplotlib.
 
     ![temperature](Images/temperature.png)
 
